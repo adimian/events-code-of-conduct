@@ -1,4 +1,4 @@
-#Citizen Code of Conduct
+# Citizen Code of Conduct
 
 ## 1. Purpose
 A primary goal of Adimian Sprints is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
@@ -17,26 +17,26 @@ If you see someone who is making an extra effort to ensure our community is welc
 ## 3. Expected Behavior
 The following behaviors are expected and requested of all community members:
 
-	- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-	- Exercise consideration and respect in your speech and actions.
-	- Attempt collaboration before conflict.
-	- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-	- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-	- Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+- Exercise consideration and respect in your speech and actions.
+- Attempt collaboration before conflict.
+- Refrain from demeaning, discriminatory, or harassing behavior and speech.
+- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+- Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ## 4. Unacceptable Behavior
 The following behaviors are considered harassment and are unacceptable within our community:
 
-	- Violence, threats of violence or violent language directed against another person.
-	- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-	- Posting or displaying sexually explicit or violent material.
-	- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-	- Inappropriate photography or recording.
-	- Inappropriate physical contact. You should have someone's consent before touching them.
-	- Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-	- Deliberate intimidation, stalking or following (online or in person).
-	- Advocating for, or encouraging, any of the above behavior.
-	- Sustained disruption of community events, including talks and presentations.
+- Violence, threats of violence or violent language directed against another person.
+- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+- Posting or displaying sexually explicit or violent material.
+- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+- Inappropriate photography or recording.
+- Inappropriate physical contact. You should have someone's consent before touching them.
+- Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+- Deliberate intimidation, stalking or following (online or in person).
+- Advocating for, or encouraging, any of the above behavior.
+- Sustained disruption of community events, including talks and presentations.
 
 ## 5. Weapons Policy
 No weapons will be allowed at Adimian Sprints events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
@@ -53,13 +53,13 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 In your report please include:
 
-	- Your contact info (so we can get in touch with you if we need to follow up)
-	- Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
-	- When and where the incident occurred. Please be as specific as possible.
-	- Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger) please include a link.
-	- Any extra context you believe existed for the incident.
-	- If you believe this incident is ongoing.
-	- Any other information you believe we should have.
+- Your contact info (so we can get in touch with you if we need to follow up)
+- Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
+- When and where the incident occurred. Please be as specific as possible.
+- Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger) please include a link.
+- Any extra context you believe existed for the incident.
+- If you believe this incident is ongoing.
+- Any other information you believe we should have.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
